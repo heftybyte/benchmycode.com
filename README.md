@@ -6,8 +6,4 @@ Planned support for
 - Javascript
 - python
 - php
-- Java
-- Go
-- Scala
-- C
-- C++
+- ruby
